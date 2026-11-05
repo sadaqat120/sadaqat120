@@ -1,6 +1,35 @@
-### Hi, I'm Sadaqat 👋
+<div align="center">
 
-I'm a **Full-Stack & AI Software Engineer** from Pakistan. I build web apps, SaaS platforms and AI features that work on real data, and I test them before anyone else has to.
+<img src="https://avatars.githubusercontent.com/u/147387253?v=4" width="120" style="border-radius:50%" alt="Sadaqat Rasool">
+
+## Hi, I'm Sadaqat Rasool 👋
+### Full-Stack & AI Software Engineer · AI agents · LLM apps · SaaS
+
+I build **AI product advisors, AI assistants and full-stack SaaS** that work on real business data, and I test them before anyone else has to.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sadaqatrasool.vercel.app-111?style=for-the-badge&logo=vercel)](https://sadaqatrasool.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sadaqatrasool-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadaqatrasool/)
+[![Email](https://img.shields.io/badge/Email-hire%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadaqatrasoolmsr@gmail.com)
+![Open to work](https://img.shields.io/badge/Open%20to-remote%20roles%20%26%20projects-16a34a?style=for-the-badge)
+
+</div>
+
+---
+
+#### ⭐ Featured showcases
+
+| | Project | Proof |
+|---|---|---|
+| 🛍️ | **[AI Product Advisors](https://github.com/sadaqat120/ai-product-advisor-showcase)**: customers describe what they need, get real products with quantities and prices | 108 + 240 + 41 real products · 100% on a 45-question test |
+| 🤖 | **[ForgeAI](https://github.com/sadaqat120/forgeai-showcase)**: AI website builder, one sentence to a published multi-page site | 161 automated tests · [live](https://forgeai-beryl.vercel.app/) |
+| 💳 | **[Stripe Partner Platform](https://github.com/sadaqat120/stripe-partner-platform-showcase)**: QR referrals, Stripe webhooks, partner dashboards | 22/22 end-to-end checks |
+| 🌙 | **[After-Hours AI Assistant](https://github.com/sadaqat120/ai-after-hours-assistant-showcase)**: bilingual lead capture and booking, 8 AM call list | Playwright-tested · [live](https://primecure-after-hours-preview.vercel.app/) |
+| 🏗️ | **[MyBuildHub SaaS](https://github.com/sadaqat120/mybuildhub-saas-showcase)**: construction project management with a full Gantt timeline | Remote contract, Sydney |
+| 🧵 | **[Loomsight](https://github.com/sadaqat120/loomsight-showcase)**: QC portal for textile importers | [live](https://multifabric-qc-portal.vercel.app/) |
+
+---
+
+#### About me
 
 - 🏗️ Built **MyBuildHub**, a construction project-management SaaS, on a remote contract for Pembridge (Sydney). I owned the Gantt timeline.
 - 🤖 Built **ForgeAI**, my own AI platform that turns one sentence into a complete multi-page website. **161 automated tests.**
@@ -8,11 +37,10 @@ I'm a **Full-Stack & AI Software Engineer** from Pakistan. I build web apps, Saa
 - 🌍 Clients in the US, UK, Ireland, Belgium, the Netherlands and Australia, with repeat clients from Ireland and Belgium.
 - 💼 **Open to remote roles** (full-time or contract) and client projects. I work European, UK or US hours.
 
-**Portfolio:** [sadaqatrasool.vercel.app](https://sadaqatrasool.vercel.app) · **LinkedIn:** [sadaqatrasool](https://www.linkedin.com/in/sadaqatrasool/) · **Email:** sadaqatrasoolmsr@gmail.com
 
 ---
 
-#### Selected work
+#### More work
 
 | Project | What it is | Links |
 | --- | --- | --- |
@@ -34,7 +62,8 @@ Most client code is private. The live links and showcase repos show the work.
 - **Frontend:** React · Next.js · Tailwind CSS · Material UI
 - **Backend:** Node.js · Express · REST APIs · authentication and roles
 - **Data:** PostgreSQL (Supabase) · MongoDB · MySQL · Row-Level Security
-- **AI:** LLM APIs (Gemini and others) · chatbots and product advisors · multi-step AI workflows · validated AI output
+- **AI:** LLM apps · AI agents and multi-step workflows · RAG on business data · chatbots and product advisors · OpenAI / Gemini APIs · validated AI output
+- **Payments & integrations:** Stripe (Checkout, webhooks, subscriptions) · REST APIs · webhooks · automation
 - **Quality:** Vitest · Playwright · axe accessibility checks · Lighthouse
 - **Platforms:** Vercel · Netlify · Azure · Shopify · WooCommerce · Craft CMS
 
